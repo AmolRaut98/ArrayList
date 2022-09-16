@@ -16,11 +16,11 @@ public class ArrayList1 {
 		 ArrayList<Integer> list1 = new ArrayList<Integer>(set);
 		
 		
-//		for(Integer s:list) {
-//			
-//			System.out.print(" "+s);
-//		}
-//		
+		for(Integer s:list1) {
+			
+			System.out.print(" "+s);
+		}
+		
 
 		Iterator<Integer> itr = list1.iterator();
 		
